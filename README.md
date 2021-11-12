@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Mark
+
+- 📚 I’m currently exploring and comparing headless CMS platforms and the world of the jamstack
+- 💬 Find my journey happening at [markasaservice.xyz](https://markasaservice.xyz)
 
 <!--
 **mursino/mursino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
