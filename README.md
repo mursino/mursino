@@ -2,6 +2,7 @@
 
 - 📚 I’m currently exploring and comparing headless CMS platforms and the world of the jamstack
 - 💬 Find my journey happening at [markasaservice.xyz](https://markasaservice.xyz)
+- ⭕ I'm a big fan of Sitecore too
 
 <!--
 **mursino/mursino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
