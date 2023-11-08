@@ -3,7 +3,7 @@
 - 🧩 My current interest is in Composable DXP
 - 📚 I’m currently comparing headless CMS platforms and the world of the jamstack
 - 💬 Find my journey happening at [markasaservice.xyz](https://markasaservice.xyz)
-- ⭕ I'm a big fan of Sitecore too
+- ⭕ I'm a big fan of Sitecore too and 📝 about it on the [Perficient Blog](https://blogs.perficient.com/author/mursino/)
 
 <!--
 **mursino/mursino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
